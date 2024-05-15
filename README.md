@@ -9,4 +9,4 @@ This repository contains code and information related to fine-tuning lightweight
 | Model           | Parameters | Trainable Token | Trainable Layers | Context Length          | Hardware         | Training Time | Training Accuracy | Validation Accuracy | Test Accuracy |
 |-----------------|------------|-----------------|------------------|-------------------------|------------------|----------------|-------------------|---------------------|---------------|
 | Phi-3 (3.8B)    | Instruct   | Last            | Classification Head | Dynamic Padding (Batch-wise) | T4 (Colab free) | 0.63 min       | 99.51%            | 99.32%              | 96.66%        |
-| H2O-Danube (1.8B) | Instruct  | Last            | All-LoRA         | Dynamic Padding (Batch-wise) | T4 (Colab free) | 3.50 min       | 99.71%            | 99.32%              | 97.33%        |
+| H2O-Danube (1.8B) | Instruct  | Last            | All-LoRA         | Dynamic Padding (Batch-wise) | T4 (Colab free) | 2.76 min       | 99.71%            | 99.32%              | 97.33%        |

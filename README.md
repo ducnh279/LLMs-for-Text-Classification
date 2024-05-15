@@ -1,4 +1,4 @@
-# Fine-tuning Large Language Models for Text Classification Task
+# Finetuning Large Language Models (LLMs) for Text Classification 
 
 ## Overview
 
